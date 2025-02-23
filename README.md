@@ -8,7 +8,7 @@ This project analyzes user behavior on social media to identify segments most pr
 
 The dataset used in this project was obtained from the following repository:
 - **Repo Owner**: Sonal Shukla (GitHub Profile)
-- **Repository**: [SocialBuzzAnalytics](https://github.com/sonalshukla/socialbuzzanalytics)
+- **Repository**: [SocialBuzzAnalytics](https://github.com/100-nal/SocialBuzzAnalytics)
 
 🖥️ Usage
   1. Clone this repository.
