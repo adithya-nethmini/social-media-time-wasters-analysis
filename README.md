@@ -1,7 +1,7 @@
 # **social-media-time-wasters-analysis**
 
 📌 ## **Project Overview**
-
+## **Project Overview**
 This project analyzes user behavior on social media to identify segments most prone to wasting time. Using data analysis, clustering, and regression modeling, I have determined key factors that influence productivity loss due to excessive social media usage.
 
 📂 **Dataset**
