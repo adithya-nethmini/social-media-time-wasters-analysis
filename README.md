@@ -1,16 +1,16 @@
-# social-media-time-wasters-analysis
+# **social-media-time-wasters-analysis**
 
-📌 Project Overview
+📌 **Project Overview**
 
 This project analyzes user behavior on social media to identify segments most prone to wasting time. Using data analysis, clustering, and regression modeling, I have determined key factors that influence productivity loss due to excessive social media usage.
 
-📂 Dataset
+📂 **Dataset**
 
 The dataset used in this project was obtained from the following repository:
 - **Repo Owner**: Sonal Shukla [GitHub Profile](https://github.com/100-nal)
 - **Repository**: [SocialBuzzAnalytics](https://github.com/100-nal/SocialBuzzAnalytics)
 
-🖥️ ## Usage
+🖥️ **Usage**
 1. Clone this repository.
 2. Run the following command to install the required libraries:
 
